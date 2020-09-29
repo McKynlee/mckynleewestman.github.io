@@ -1,3 +1,9 @@
 h*{
   color: navy;
   }
+.class="bold"{
+  font-style: strong;
+  }
+.class="align-right"{
+  text-align: right;
+  }
