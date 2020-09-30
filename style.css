@@ -1,8 +1,8 @@
 h* 
-  color: #443322
+  color: #A9A9A9
   }
 .bold {
-  font-style: strong;
+  font-weight: bold;
   }
 .align-right {
   text-align: right;
@@ -14,5 +14,4 @@ body {
   background-color: #3dcfc2;
   color: #A9A9A9;
   font-family: 
-  margin: 10% 10%;
   }
