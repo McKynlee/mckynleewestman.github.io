@@ -36,7 +36,14 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 0%;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
+
+<img src="image0.png" alt="McKBike">
 
 h2 {
   text-decoration: underline;
