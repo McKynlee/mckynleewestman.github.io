@@ -11,9 +11,10 @@
  }
 
 body {
-  background-color: #b0fcdb;
+  background-color: #E7FDF3;
   color: #04492b;
   font-family: “Palatino Linotype”, “Book Antiqua”, Palatino, serif;
+  margin: 5% 5%;
  }
 
 #left {
