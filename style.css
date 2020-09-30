@@ -1,17 +1,25 @@
 .bold {
   font-weight: bold;
-  }
+ }
 
 .align-right {
   text-align: right;
-  }
+ }
 
 .center {
   text-align: center;
-  }
+ }
 
 body {
   background-color: #3dcfc2;
   color: #222222;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
-  }
+ }
+
+ul {
+  text-align: left;
+ }
+
+#left {
+  text-align: left;
+}
