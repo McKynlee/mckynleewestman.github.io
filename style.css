@@ -1,15 +1,18 @@
 .bold {
   font-weight: bold;
   }
+
 .align-right {
   text-align: right;
   }
+
 .bold.center {
   text-align: center;
   font-weight: bold;
   }
+
 body {
   background-color: #3dcfc2;
   color: #222222;
-  font-family: 
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
   }
