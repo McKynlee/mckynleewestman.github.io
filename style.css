@@ -25,5 +25,7 @@ hr {
 }
 
 .indent {
-  text-indent: 10px;
+  text-indent: 50px;
+  list-style-type: square;
+  line-height: 0.5;
 }
