@@ -1,5 +1,5 @@
 h* 
-  color: #A9A9A9
+  color: #222222;
   }
 .bold {
   font-weight: bold;
@@ -7,11 +7,12 @@ h*
 .align-right {
   text-align: right;
   }
-.center {
+.bold.center {
   text-align: center;
+  font-weight: bold;
   }
 body {
   background-color: #3dcfc2;
-  color: #A9A9A9;
+  color: #222222;
   font-family: 
   }
