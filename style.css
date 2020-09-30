@@ -36,3 +36,7 @@ img {
   margin-right: auto;
   width: 40%;
 }
+
+h2 {
+  text-decoration: underline;
+}
