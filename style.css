@@ -1,9 +1,18 @@
-h*{
-  color: navy;
+h* 
+  color: #443322
   }
-.class="bold"{
+.bold {
   font-style: strong;
   }
-.class="align-right"{
+.align-right {
   text-align: right;
+  }
+.center {
+  text-align: center;
+  }
+body {
+  background-color: #3dcfc2;
+  color: navy;
+  font-family: 
+  margin: 10% 10%;
   }
