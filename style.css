@@ -17,7 +17,8 @@ body {
   background-color: #E7FDF3;
   color: #04492b;
   font-family: “Palatino Linotype”, “Book Antiqua”, Palatino, serif;
-  margin: 5% 5%;
+  margin: 80px auto;
+  max-width: 1280px;
  }
 
 #left {
